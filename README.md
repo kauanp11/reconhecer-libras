@@ -6,8 +6,8 @@ Aplicação web que reconhece, em tempo real e pela webcam, as letras do alfabet
 
 ## Dupla
 
-- _Nome 1_
-- _Nome 2_
+- _Kauan Moreira Petro_
+- _Thauan Pereira Gomes_
 
 ## Descrição da ideia
 
@@ -61,15 +61,7 @@ Python, com OpenCV, NumPy e scikit-learn, é a combinação mais direta para col
 
 A Web Speech API fecha o fluxo ao transformar as palavras soletradas em voz, sem custo extra. Git e GitHub permitem versionar a evolução do projeto e acompanhar cada etapa do desenvolvimento orientado por especificação (SDD) nas próximas semanas.
 
-## Roadmap
-
-- [x] **Semana 1:** ideia, stack, justificativa e repositório criado
-- [ ] Constitution e especificação completa (SDD)
-- [ ] Coleta de dados e treino do modelo
-- [ ] Aplicação web com reconhecimento em tempo real
-- [ ] Formação de palavras e leitura em voz alta
-- [ ] Testes e README de execução
 
 ## Acompanhamento
 
-O instrutor [@MarcoMinozzo](https://github.com/MarcoMinozzo) foi convidado ao repositório com permissão de leitura.
+O instrutor [@MarcoMinozzo](https://github.com/MarcoMinozzo) foi convidado ao repositório.
